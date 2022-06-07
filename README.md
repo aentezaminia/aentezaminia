@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arezou
+- 👋 Hi, I’m Arezou.
 - 👀 I’m interested in  Data Science, Data Analysis, Machine Learning and Deep Learning.
 - 🌱 I’m currently learning Data Preprocessing, Data Visualization and Machine Learning Algorithms.
 - 💞️ I’m looking to collaborate on other content creators.
